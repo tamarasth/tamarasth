@@ -1,7 +1,7 @@
 <div align="center">
 <h1>💜⚡ Welcome to My Coding Corner</h1>
-<h3>👋 Hi, I'm Tamara</h2>
-<h4>Web Developer • Digital Storyteller</h3>
+<h3>👋 Hi, I'm Tamara</h3>
+<h4>Web Developer • Digital Storyteller</h4>
 <br><br>
 </div>
 

@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td>
- 💻 About Me<br><br>
+ <div align="center">💻 About Me<br><br></div>
 🎓 Web Development major<br>  
 🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more <br>  
 🧪 Building small apps and breaking them 5 minutes later<br> 

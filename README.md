@@ -17,13 +17,13 @@
 </td>
 </tr>
 </table>
+<br><br>
 
-
-## ⚡ Current Goals<br><br>
+## ⚡ Current Goals<br>
 - Build a personal portfolio website<br>   
 - Create dynamic full-stack projects<br>   
 - Learn cleaner Git workflows<br>   
-- Get better at debugging without tears 💀<br>   
+- Get better at debugging without tears 💀<br><br>  
 
 
 <table>

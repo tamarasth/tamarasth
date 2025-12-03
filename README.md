@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
- 💻 About Me<br>
+ 💻 About Me<br><br>
 🎓 Web Development major<br>  
 🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more <br>  
 🧪 Building small apps and breaking them 5 minutes later<br> 
@@ -19,7 +19,7 @@
 </table>
 
 
-## ⚡ Current Goals<br> 
+## ⚡ Current Goals<br><br>
 - Build a personal portfolio website<br>   
 - Create dynamic full-stack projects<br>   
 - Learn cleaner Git workflows<br>   
@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td>
-🌙 Fun Facts<br> 
+🌙 Fun Facts<br><br>
 - I love drawing (digital and hand-drawn), and designing<br>   
 - I watch way too many dramas<br>  
 </td>

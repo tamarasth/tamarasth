@@ -7,31 +7,31 @@
 <table>
 <tr>
 <td>
-## 💻 About Me
-🎓 Web Development major  
-🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more  
-🧪 Building small apps and breaking them 5 minutes later  
-✨ Obsessed with anything glowing and mystical  
-✍️ Horror & fantasy writer (coding by day, summoning demons by night)  
-😆 Professional drama-watcher and code-chaos survivor  
+ 💻 About Me<br>
+🎓 Web Development major<br>  
+🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more <br>  
+🧪 Building small apps and breaking them 5 minutes later<br> 
+✨ Obsessed with anything glowing and mystical<br>   
+✍️ Horror & fantasy writer (coding by day, summoning demons by night)<br>   
+😆 Professional drama-watcher and code-chaos survivor<br>   
 </td>
 </tr>
 </table>
 
 
-## ⚡ Current Goals
-- Build a personal portfolio website  
-- Create dynamic full-stack projects  
-- Learn cleaner Git workflows  
-- Get better at debugging without tears 💀  
+## ⚡ Current Goals<br> 
+- Build a personal portfolio website<br>   
+- Create dynamic full-stack projects<br>   
+- Learn cleaner Git workflows<br>   
+- Get better at debugging without tears 💀<br>   
 
 
 <table>
 <tr>
 <td>
-## 🌙 Fun Facts
-- I love drawing (digital and hand-drawn), and designing  
-- I watch way too many dramas 
+🌙 Fun Facts<br> 
+- I love drawing (digital and hand-drawn), and designing<br>   
+- I watch way too many dramas<br>  
 </td>
 </tr>
 </table>  

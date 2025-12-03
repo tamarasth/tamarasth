@@ -27,7 +27,7 @@ Learn cleaner Git workflows
 Get better at debugging without tears 💀  
 
 ## 🌙 Fun Facts
-I love drawing (digital and handdrawn), designing, and writing stories - especially horror and fantasy  
+I love drawing (digital and hand-drawn), and designing  
 I watch way too many dramas  
 
 </div>

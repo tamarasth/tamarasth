@@ -17,7 +17,7 @@
 😆 Professional drama-watcher and code-chaos survivor<br><br>
 </div>
 
-
+<div align="center">
 <h2>⚡ Current Goals</h2>
 <br>
 Build a personal portfolio website<br>

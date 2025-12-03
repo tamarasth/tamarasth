@@ -1,9 +1,9 @@
 <div align="center">
-# 💜⚡ Welcome to My Coding Corner
-### 👋 Hi, I'm Tamara
-#### Web Developer • Digital Storyteller
+<h1>💜⚡ Welcome to My Coding Corner</h1>
+<h3>👋 Hi, I'm Tamara</h3>
+<h4>Web Developer • Digital Storyteller</h4>
 </div>
-<br>
+<br><br>
 
 <table>
 <tr>
@@ -18,6 +18,7 @@
 </td>
 </tr>
 </table>
+<br><br>
 
 <table>
 <tr>

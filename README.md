@@ -1,8 +1,9 @@
+<div align="center">
 # 💜⚡ Welcome to My Coding Corner
 ### 👋 Hi, I'm Tamara
 #### Web Developer • Digital Storyteller
-
----
+</div>
+<br>
 
 <table>
 <tr>
@@ -17,14 +18,18 @@
 </td>
 </tr>
 </table>
-<br><br>
 
-## ⚡ Current Goals<br>
+<table>
+<tr>
+<td>
+⚡ Current Goals<br><br>
 - Build a personal portfolio website<br>   
 - Create dynamic full-stack projects<br>   
 - Learn cleaner Git workflows<br>   
-- Get better at debugging without tears 💀<br><br>  
-
+- Get better at debugging without tears 💀<br> 
+</td>
+</tr>
+</table>
 
 <table>
 <tr>

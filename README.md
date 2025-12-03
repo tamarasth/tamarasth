@@ -4,6 +4,9 @@
 
 ---
 
+<table>
+<tr>
+<td>
 ## 💻 About Me
 🎓 Web Development major  
 🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more  
@@ -11,8 +14,10 @@
 ✨ Obsessed with anything glowing and mystical  
 ✍️ Horror & fantasy writer (coding by day, summoning demons by night)  
 😆 Professional drama-watcher and code-chaos survivor  
+</td>
+</tr>
+</table>
 
----
 
 ## ⚡ Current Goals
 - Build a personal portfolio website  
@@ -20,8 +25,13 @@
 - Learn cleaner Git workflows  
 - Get better at debugging without tears 💀  
 
----
 
+<table>
+<tr>
+<td>
 ## 🌙 Fun Facts
 - I love drawing (digital and hand-drawn), and designing  
-- I watch way too many dramas  
+- I watch way too many dramas 
+</td>
+</tr>
+</table>  

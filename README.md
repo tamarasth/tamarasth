@@ -5,6 +5,8 @@
 </div>
 <br><br>
 
+
+<div align="center">
 <table>
 <tr>
 <td>
@@ -18,8 +20,11 @@
 </td>
 </tr>
 </table>
+</div>
 <br><br>
 
+
+<div align="center">
 <table>
 <tr>
 <td>
@@ -31,8 +36,11 @@
 </td>
 </tr>
 </table>
+</div>
 <br><br>
 
+
+<div align="center">
 <table>
 <tr>
 <td>
@@ -41,4 +49,5 @@
 - I watch way too many dramas<br>  
 </td>
 </tr>
-</table>  
+</table>
+</div>

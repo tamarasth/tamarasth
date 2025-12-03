@@ -1,9 +1,7 @@
 <div align="center">
 <h1>💜⚡ Welcome to My Coding Corner</h1>
-<br>
-<h2>👋 Hi, I'm Tamara</h2>
-<br>
-<h3>Web Developer • Digital Storyteller</h3>
+<h3>👋 Hi, I'm Tamara</h2>
+<h4>Web Developer • Digital Storyteller</h3>
 <br><br>
 </div>
 
@@ -23,7 +21,7 @@
 <h2>⚡ Current Goals</h2>
 <br>
 Build a personal portfolio website<br>
-Create dynamic full-stack projects<>br
+Create dynamic full-stack projects<br>
 Learn cleaner Git workflows<br>
 Get better at debugging without tears 💀 <br><br>
 </div>

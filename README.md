@@ -1,17 +1,23 @@
-# 💜⚡ Welcome to My Coding Corner  
-<p align="center">
-  <img src="https://i.imgur.com/nYHk7hV.gif" width="800" alt="neon cyber banner"/>
-</p>
+<div align="center">
+
+<h1 style="font-family: 'Century Gothic', 'Gothic', sans-serif; font-size:2.5em; color:#A7A459;">
+💜⚡ Welcome to My Coding Corner
+</h1>
+
+<h2 style="font-family: 'Comic Sans MS', 'Chalkboard', cursive; font-size:1.8em; color:white;">
+👋 Hi, I'm Tamara
+</h2>
+
+<h3 style="font-family: 'Courier New', 'Lucida Console', monospace; font-size:1.2em; color:white;">
+Web Developer • Digital Storyteller
+</h3>
+
+</div>
+
 
 ---
 
-# 👋 Hi, I'm Tamara 
-### Web Developer • Digital Storyteller
-
-<p align="center">
-  <img src="https://i.imgur.com/8mLwPdc.gif" width="200" alt="chibi coder girl" />
-</p>
-<br/>
+<div align="center">
 
 ## 💻 About Me
 - 🎓 Web Development major  
@@ -27,25 +33,10 @@
 - Create dynamic full-stack projects  
 - Learn cleaner Git workflows  
 - Get better at debugging without tears 💀  
-
----
-
-🌌 “Build things that glow… and glow while you build them.”
-
-<p align="center">
-  <img src="https://i.imgur.com/q5Z3xLE.gif" width="250"/>
-</p>
-
----
-
-## 🎨 Tech & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
-</p>
-
----
+<br />
 
 ## 🌙 Fun Facts
 - I love writing stories, especially horror and fantasy  
 - I watch way too many dramas  
-<br />
+
+</div>

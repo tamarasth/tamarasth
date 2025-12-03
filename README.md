@@ -1,17 +1,11 @@
 <div align="center">
-
 # 💜⚡ Welcome to My Coding Corner
-
 ## 👋 Hi, I'm Tamara
-
 ### Web Developer • Digital Storyteller
-
+<br><br>
 </div>
 
----
-
 <div align="center">
-
 ## 💻 About Me
 🎓 Web Development major  
 🌐 Learning: HTML • CSS • JavaScript • PHP • MySQL and more  
@@ -19,16 +13,22 @@
 ✨ Obsessed with anything glowing and mystical  
 ✍️ Horror & fantasy writer (coding by day, summoning demons by night)  
 😆 Professional drama-watcher and code-chaos survivor  
+<br><br>
+</div>
 
+<div align="center">
 ## ⚡ Current Goals
 Build a personal portfolio website  
 Create dynamic full-stack projects  
 Learn cleaner Git workflows  
 Get better at debugging without tears 💀  
+<br><br>
+</div>
 
+<div align="center">
 ## 🌙 Fun Facts
 I love drawing (digital and hand-drawn), and designing  
 I watch way too many dramas  
-
+<br><br>
 </div>
 

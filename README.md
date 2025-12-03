@@ -28,7 +28,7 @@
 <table>
 <tr>
 <td>
-⚡ Current Goals<br><br>
+<div align="center">⚡ Current Goals<br><br></div>
 - Build a personal portfolio website<br>   
 - Create dynamic full-stack projects<br>   
 - Learn cleaner Git workflows<br>   
@@ -44,7 +44,7 @@
 <table>
 <tr>
 <td>
-🌙 Fun Facts<br><br>
+<div align="center">🌙 Fun Facts<br><br></div>
 - I love drawing (digital and hand-drawn), and designing<br>   
 - I watch way too many dramas<br>  
 </td>
